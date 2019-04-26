@@ -1,0 +1,26 @@
+<Survey>
+    <!-- QUESTION 1 -->
+    <Question QuestionId='1'>
+        <QuestionText>What is the air speed velocity of an unladen swallow?</QuestionText>
+    </Question>
+
+    <!-- ANSWER 1 -->
+    <Answer QuestionId='1' AnswerTypeId='1' DisplayOrder='1' AnswerId='286'>
+        <AnswerText>12?</AnswerText>
+    </Answer>
+
+    <!-- ANSWER 2 -->
+    <Answer QuestionId='1' AnswerTypeId='1' DisplayOrder='2' AnswerId='286'>
+        <AnswerText>African or European</AnswerText>
+    </Answer>
+
+    <!-- ANSWER 3 -->
+    <Answer QuestionId='1' AnswerTypeId='1' DisplayOrder='3' AnswerId='286'>
+        <AnswerText>11 meters per second.</AnswerText>
+    </Answer>
+
+    <!-- ANSWER 4 -->
+    <Answer QuestionId='1' AnswerTypeId='1' DisplayOrder='4' AnswerId='286'>
+        <AnswerText>I don’t know.</AnswerText>
+    </Answer>
+</Survey>
